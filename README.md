@@ -6,10 +6,10 @@
 
 ### Hi there, I am Efe Çınar <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
-- 🔭 I’m currently working on Monster Notebook
+- 🔭 I’m currently working on Macbook Pro
 - 🌱 I’m currently learning Machine Learning
 - 💬 Ask me about anything related data analysis and data visualization
-- 📫 How to reach me: senihberkay@gmail.com
+- 📫 How to reach me: odulsuzkisafilm@gmail.com
 - 🌍 I'm based in Turkey, looking for new opportunities around the world
 
 <br></br>
@@ -39,7 +39,7 @@ Connect with me
 </a> &nbsp;
 
 
-<a href="https://www.linkedin.com/in/senihberkay/" target="_blank">
+<a href="https://www.github.com/odulsuzkisafilm/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> &nbsp;
 
