@@ -7,8 +7,8 @@
 ### Hi there, I am Efe Çınar <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
 - 🔭 I’m currently working on Macbook Pro
-- 🌱 I’m currently learning Machine Learning
-- 💬 Ask me about anything related data analysis and data visualization
+- 🌱 I’m currently learning C++
+- 💬 Ask me about ...
 - 📫 How to reach me: odulsuzkisafilm@gmail.com
 - 🌍 I'm based in Turkey, looking for new opportunities around the world
 
@@ -17,7 +17,7 @@
 <h2 align="center">
 Who am I 👀 
 </h2>
-Senior Computer Science and Engineering student at Sabanci University. Loves data science especially using Python. 
+Sophomore Computer Science and Engineering student at Sabanci University. Loves data science especially using Python. 
 </p>
 <center>
 <br>
