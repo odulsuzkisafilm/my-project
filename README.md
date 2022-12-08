@@ -35,7 +35,7 @@ Connect with me
 
 <p align="center">
 <a href="https://github.com/odulsuzkisafilm" target="_blank">
-<img src=https://img.shields.io/badge/seniberkay.com-%23121011.svg?style=for-the-badge&logo=github&logoColor=orange alt=odulsuzkisafilm.com style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/odulsuzkisafilm.com-%23121011.svg?style=for-the-badge&logo=github&logoColor=orange alt=odulsuzkisafilm.com style="margin-bottom: 5px;" />
 </a> &nbsp;
 
 
