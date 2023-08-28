@@ -7,8 +7,8 @@
 ### Hi there, I am Efe Çınar <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
 - 🔭 I’m currently working on Macbook Pro
-- 🌱 I’m currently learning C++
-- 💬 Ask me about ...
+- 🌱 I’m currently learning Deep Learning
+- 💬 Ask me about Abstract Algebra and Data Structures
 - 📫 How to reach me: odulsuzkisafilm@gmail.com
 - 🌍 I'm based in Turkey, looking for new opportunities around the world
 
