@@ -18,7 +18,7 @@
 Who am I 👀 
 </h2>
 <p align="center">
-Junior Computer Science and Engineering student at Sabanci University. Loves data science especially using Python. 
+Junior Computer Science and Engineering student at Sabanci University. Loves Artificial Intelligence especially using Tensorflow. 
 </p>
 <center>
 <br>
