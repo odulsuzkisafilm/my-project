@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Macbook Pro
 - 🌱 I’m currently learning Deep Learning
-- 💬 Ask me about Abstract Algebra and Data Structures
+- 💬 Ask me about Parallel Computing and DSA
 - 📫 How to reach me: odulsuzkisafilm@gmail.com
 - 🌍 I'm based in Turkey, looking for new opportunities around the world
 
@@ -18,7 +18,7 @@
 Who am I 👀 
 </h2>
 <p align="center">
-Junior Computer Science and Engineering student at Sabanci University. Loves Artificial Intelligence especially using Tensorflow. 
+Senior Computer Science and Engineering student at Sabanci University. Loves Artificial Intelligence especially using Tensorflow. 
 </p>
 <center>
 <br>
